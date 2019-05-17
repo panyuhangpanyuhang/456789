@@ -8,8 +8,4 @@
     <ProjectReference Include="..\Online.Infrastructure\Online.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="service\" />
-  </ItemGroup>
-
 </Project>
